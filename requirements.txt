@@ -1,0 +1,4 @@
+geopy
+tensorflow
+tensorflow-hub
+numpy
